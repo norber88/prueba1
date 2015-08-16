@@ -34,3 +34,9 @@ int pepe (int a)
 	return a+1000;
 	
 }
+
+
+int juanjo ()
+{
+	return 23;
+}
