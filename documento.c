@@ -36,7 +36,18 @@ int pepe (int a)
 }
 
 
+<<<<<<< HEAD
 int juanjo ()
 {
 	return 23;
+}
+
+
+
+
+
+int juanjo2 ()
+{
+	return 32;
+>>>>>>> juanjo2
 }
