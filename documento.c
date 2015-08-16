@@ -49,5 +49,5 @@ int juanjo ()
 int juanjo2 ()
 {
 	return 32;
->>>>>>> juanjo2
+
 }
