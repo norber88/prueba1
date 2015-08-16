@@ -23,3 +23,8 @@ int probando (int x, int y, int z){ //función de división
 	return z;
 }
 
+int pepe (int a)
+{
+	return a+1000;
+	
+}
