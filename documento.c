@@ -23,7 +23,14 @@ int probando (int x, int y, int z){ //función de división
 	return z;
 }
 
+<<<<<<< HEAD
 int jj (int a)
 {
 		return a-1;
+=======
+int pepe (int a)
+{
+	return a+1000;
+	
+>>>>>>> juanjo2
 }
