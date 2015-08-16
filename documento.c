@@ -34,3 +34,22 @@ int pepe (int a)
 	return a+1000;
 	
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+int juanjo2 ()
+{
+	return 32;
+}
